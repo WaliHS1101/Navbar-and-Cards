@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(207, 204, 204);
+}
+
+ul {
+    background-color: #ffcc99;
+    height: 30px;
+    list-style: none;
+    border: 2px solid rgb(170, 59, 59);
+    border-radius: 25px;
+}
+
+li:hover {
+    background-color: coral;
+}
+
+li {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.nav_img {
+    position: relative;
+    width: 30px;
+    left: 98%;
+
+}
+
+.container {
+    border: 3px dotted black;
+    background-color: darkgray;
+    width: 60vw;
+    height: 86vh;
+    margin: auto;
+    padding-top: 40px;
+    margin-top: 50px;
+}
+
+.Box1 {
+    background-color: rgb(255, 243, 228);
+    border: 2px solid black;
+    margin-left: 5vw;
+    width: 50vw;
+    height: 38vh;
+}
+
+.Box2 {
+    background-color: rgb(255, 244, 229);
+    border: 2px solid black;
+    margin-left: 5vw;
+    margin-top: 5vh;
+    width: 50vw;
+    height: 38vh;
+}
+
+.card {
+    background: #cce5ff;
+    height: 100%;
+    width: 25%;
+    display: inline-block;
+    margin-left: 53px;
+}
+
+.card-c1 {
+    margin-left: 10px;
+}
+
+.card1_img {
+    height: 120px;
+    width: 94%;
+}
+
+p {
+    color: rgb(109, 119, 153);
+    font-family: 'Dancing Script', cursive;
+    font-size: 18px;
+}
+
+.Search_bar {
+    margin-left: 1180px;
+    width: 265px;
+    height: 20px;
+    border-radius: 25px;
+}
