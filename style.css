@@ -13,6 +13,8 @@ ul {
     list-style: none;
     border: 2px solid rgb(170, 59, 59);
     border-radius: 25px;
+    position: sticky;
+    top: 0%;
 }
 
 li:hover {
